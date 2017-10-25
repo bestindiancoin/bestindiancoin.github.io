@@ -1337,30 +1337,3 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qu3LjbuQOc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #073b4c;
-}
-.cid-qu3LjbuQOc .title {
-  margin-bottom: 2rem;
-}
-.cid-qu3LjbuQOc .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qu3LjbuQOc a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qu3LjbuQOc a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qu3LjbuQOc .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qu3LjbuQOc .input-group-btn {
-  display: block;
-  text-align: center;
-}
